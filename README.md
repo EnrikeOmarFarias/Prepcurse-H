@@ -1,2 +1,3 @@
 # Prepcurse-H
-repositorio de prueba
+este proyecto es una prueba de como crear un repositorio desde github
+
